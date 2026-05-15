@@ -69,5 +69,6 @@ input, select{
 
 hr {
     border: 0;
-    border-top: lpx so
-}
+    border-top: 1xp solid #181717;
+    margin: 20xp 0;
+ }
